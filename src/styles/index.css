@@ -13,12 +13,13 @@ body {
   
 .navbar-brand {
     margin-right: auto;
-    font-size: 3rem;
+    font-size: 2rem;
     color: rgb(248, 211, 46);
   }
 
   .nav-link {
     color: rgb(248, 211, 46) !important;
+    font-size: 18px;
 }
 
 .jumbotron {
